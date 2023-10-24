@@ -7,22 +7,16 @@ auther: jasir<jasirm203@gmail.com>
 environment:
   sdk: '>=3.0.6 <4.0.0'
   flutter: ">=1.17.0"
-
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
 dependencies:
   flutter:
     sdk: flutter
-    plugin:
-      platforms:
-        android:
-          package: com.example.hello
-          pluginClass: HyperTextApi
-        ios:
-          pluginClass: HyperTextApi
-        macos:
-          pluginClass: HyperTextApi
-        web:
-          pluginClass: HyperTextApi
-          fileName: hyper_api.dart
   url_launcher: ^6.1.14
 
 dev_dependencies:
