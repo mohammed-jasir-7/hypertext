@@ -32,8 +32,8 @@ I am a passionate Flutter developer with years of experience in building cross-p
 
 
 ## 🔗 Links
-[![github](https://github.com/mohammed-jasir-7)](https://katherineoelsner.com/)
-[![linkedin](https://www.linkedin.com/in/jasir-bin-shihabudeen-61b99722b/)](https://www.linkedin.com/)
+[![github](https://github.com/mohammed-jasir-7)]
+[![linkedin](https://www.linkedin.com/in/jasir-bin-shihabudeen-61b99722b/)]
 
 
 
