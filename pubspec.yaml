@@ -1,6 +1,6 @@
 name: hypertext_detector
 description: A Flutter package that detects and parses various types of data in text, such as links, phone numbers, emails, and more.
-version: 0.0.3
+version: 1.0.0
 homepage: https://github.com/mohammed-jasir-7/hypertext.git
 auther: jasir<jasirm203@gmail.com>
 
