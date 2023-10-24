@@ -11,6 +11,18 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+    plugin:
+      platforms:
+        android:
+          package: com.example.hello
+          pluginClass: HyperTextApi
+        ios:
+          pluginClass: HyperTextApi
+        macos:
+          pluginClass: HyperTextApi
+        web:
+          pluginClass: HyperTextApi
+          fileName: hyper_api.dart
   url_launcher: ^6.1.14
 
 dev_dependencies:
