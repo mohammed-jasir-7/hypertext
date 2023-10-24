@@ -1,3 +1,0 @@
-A Flutter package that detects and parses various types of data in text, such as links, phone numbers, emails, and more.
- 
-  The package uses regular expressions  to identify and extract data from any given text input. It also provides methods to format, validate, and launch the data using the appropriate applications or services.
