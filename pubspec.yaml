@@ -1,5 +1,5 @@
 name: hyper_text
-description: A new Flutter package project.
+description: A Flutter package that detects and parses various types of data in text, such as links, phone numbers, emails, and more.
 version: 0.0.1
 homepage: https://github.com/mohammed-jasir-7/hypertext.git
 
